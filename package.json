@@ -1,0 +1,15 @@
+{
+  "name": "com.ossovr.dotnet-state-machine.stateless",
+  "displayName": "Stateless",
+  "version": "4.4.0",
+  "unity": "2018.1",
+  "description": "Create state machines and lightweight state machine-based workflows directly in .NET code.",
+  "keywords": [
+    "statemachine",
+    "state",
+    "machine",
+    "hierarchical"
+  ],
+  "category": "Utilities",
+  "type": "library"
+}
